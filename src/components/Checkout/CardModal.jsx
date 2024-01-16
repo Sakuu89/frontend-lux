@@ -210,7 +210,7 @@ const CardModal = ({ orderConfirmed }) => {
                   }
             }
             type="text"
-            placeholder="Ahmad Khan"
+            placeholder="Sakshi Singh"
             name="cardHolderName"
             value={values.cardHolderName}
             onChange={handleChange}
